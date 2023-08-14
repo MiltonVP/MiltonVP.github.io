@@ -10,4 +10,15 @@ Apasionado Licenciado en Administración de Tecnología de Información con una 
 
 Como Licenciado en Administración de Tecnología de Información, me impulsa la búsqueda constante de oportunidades para generar valor a través de la tecnología, aportando una perspectiva estratégica y un enfoque centrado en la innovación a cualquier empresa dispuesta a abrazar el poder transformador de la era digital. Siempre comprometido con el aprendizaje continuo y la mejora constante, estoy entusiasmado por seguir creciendo en mi carrera y contribuir al éxito y la evolución de las organizaciones en un mundo tecnológicamente cambiante.
 
+### Habilidades
+* Estrategia de Transformación Digital
+* Gestión de Proyectos Tecnológicos
+* Análisis de Negocios de TI
+* Liderazgo y Colaboración
+* Innovación Tecnológica
+* Comunicación Interpersonal
+* Metodologías Ágiles y Scrum
+* Gestión de Cambio Organizacional
+
+##### Navegación
 - [Formación académica](pages/academic.html)
