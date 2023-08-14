@@ -8,7 +8,7 @@ description: Información de contacto del profesional
   * Correo electrónico: miltonvp@estudiantec.cr
 
 ### Redes Sociales 
-  * [Linkedin](www.linkedin.com/in/milton-andrey-valverde-paniagua-600274288)
+  * [Linkedin](http://www.linkedin.com/in/milton-andrey-valverde-paniagua-600274288)
 
 
 *****
