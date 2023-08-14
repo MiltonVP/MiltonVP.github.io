@@ -17,5 +17,5 @@ description: Estudios y cursos obtenidos.
 
 *****
 - [Perfil](../index.html)
-- [Curriculum Vitae](pages/cv.html)
-- [Contacto](pages/contact.html)
+- [Curriculum Vitae](/cv.html)
+- [Contacto](/contact.html)

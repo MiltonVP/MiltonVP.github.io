@@ -8,5 +8,5 @@ description: Curriculum Vitae.
 
 *****
 - [Perfil](../index.html)
-- [Formación académica](pages/academic.html)
-- [Contacto](pages/contact.html)
+- [Formación académica](/academic.html)
+- [Contacto](/contact.html)

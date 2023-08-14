@@ -13,5 +13,5 @@ description: Información de contacto del profesional
 
 *****
 - [Perfil](../index.html)
-- [Formación académica](pages/academic.html)
-- [Curriculum Vitae](pages/cv.html)
+- [Formación académica](/academic.html)
+- [Curriculum Vitae](/cv.html)
